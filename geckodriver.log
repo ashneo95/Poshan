@@ -1,0 +1,220 @@
+1600948862475	geckodriver	INFO	Listening on 127.0.0.1:51040
+1600948865507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofileFKDuyD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600948873325	Marionette	INFO	Listening on port 51048
+1600948873597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600948924566	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600949001879	Marionette	INFO	Stopped listening on port 51048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600949004366	geckodriver	INFO	Listening on 127.0.0.1:51189
+1600949007444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofilenSwqQT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600949013745	Marionette	INFO	Listening on port 51197
+1600949013824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600949055474	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600949283642	Marionette	INFO	Stopped listening on port 51197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600949286697	geckodriver	INFO	Listening on 127.0.0.1:51324
+1600949289759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofileuhXdsr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600949296313	Marionette	INFO	Listening on port 51332
+1600949296715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600949344230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600949575010	Marionette	INFO	Stopped listening on port 51331600949576099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofileWLlfeJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600949581990	Marionette	INFO	Listening on port 51466
+1600949582425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600949630114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600949713414	Marionette	INFO	Stopped listening on port 51466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileg8WoAI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600949718654	Marionette	INFO	Listening on port 51610
+1600949719145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600949763472	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600950075580	Marionette	INFO	Stopped listening on port 51610
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofilevqxPls"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600949998422	Marionette	INFO	Listening on port 51754
+1600949998519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600950034110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600950113302	Marionette	INFO	Stopped listening on port 51754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600950138070	geckodriver	INFO	Listening on 127.0.0.1:52112
+1600950141086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofilexd4djq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600950144609	Marionette	INFO	Listening on port 52120
+1600950144795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600950191524	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 11292, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600950245644	Marionette	INFO	Stopped listening on port 52120
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600950247424	geckodriver	INFO	Listening on 127.0.0.1:52251
+1600950250439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofileNWor76"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600950253963	Marionette	INFO	Listening on port 52259
+1600950254105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600950297957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600950918007	Marionette	INFO	Stopped listening on port 52259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilemfmsN3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600950524504	Marionette	INFO	Listening on port 52390
+1600950524660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600950697298	geckodriver	INFO	Listening on 127.0.0.1:52479
+1600950700306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofileyp3Vtp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600950704093	Marionette	INFO	Listening on port 52487
+1600950704469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600950915606	Marionette	INFO	Stopped listening on port 52487
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600950920822	geckodriver	INFO	Listening on 127.0.0.1:52650
+1600950923838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofileTC6SFp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600950927390	Marionette	INFO	Listening on port 52658
+1600950927519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 55: ReferenceError: jQuery is not defined
+1600950997601	Marionette	INFO	Stopped listening on port 52658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601041337247	geckodriver	INFO	Listening on 127.0.0.1:50263
+1601041340293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shubhneo\\AppData\\Local\\Temp\\rust_mozprofiletdBxi8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601041347075	Marionette	INFO	Listening on port 50271
+1601041347278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/, line 22: ReferenceError: jQuery is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: http://poshanabhiyaan.gov.in/assets/js/map.js, line 9: ReferenceError: Highcharts is not defined
+JavaScript error: http://poshanabhiyaan.gov.in/#/POSHAN/event, line 22: ReferenceError: jQuery is not defined
+1601052483490	Marionette	INFO	Stopped listening on port 50271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
