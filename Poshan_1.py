@@ -112,11 +112,15 @@ for i in range(1000):
 
     descfield = driver.find_element_by_id("mat-input-5")
     descfield.send_keys("D-Yewalewad")
-    time.sleep(0.25)
 
     xsubmitbutton = "/html/body/app-dashboard/div/main/div/app-hierarchy/div[1]/div/div/form/div/div[2]/div/div[3]/div/div/button"
-    time.sleep(1)
-    submitbutton = driver.find_element_by_xpath(xsubmitbutton).click()
+    try:
+        element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, xsubmitbutton))).click()
+        #print('Element found successfully:  Success Button.')
+    except:
+        print('Not found :  Notice Button.')
+        driver.close()
+        gui.alert("Error at submit button!")
 
     xsuccess = "/html/body/app-dashboard/div/main/div/app-hierarchy/p-dialog[1]/div/div[2]/div[1]/div[1]/button/span"
     try:
