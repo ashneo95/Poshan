@@ -110,19 +110,20 @@ for i in range(1000):
     femalec.send_keys(str(female_c))
 
     descfield = driver.find_element_by_id("mat-input-5")
-    descfield.send_keys("Dhodambe")
+    descfield.send_keys("D-Yewalewad")
     time.sleep(0.25)
 
     xsubmitbutton = "/html/body/app-dashboard/div/main/div/app-hierarchy/div[1]/div/div/form/div/div[2]/div/div[3]/div/div/button"
     submitbutton = driver.find_element_by_xpath(xsubmitbutton)
     submitbutton.click()
-
+    time.sleep(0.5)
     xsuccess = "/html/body/app-dashboard/div/main/div/app-hierarchy/p-dialog[1]/div/div[2]/div[1]/div[1]/button/span"
     try:
-        element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, xsuccess))).click()
+        element = WebDriverWait(driver, 60).until(EC.presence_of_element_located((By.XPATH, xsuccess))).click()
         #print('Element found successfully:  Success Button.')
     except:
-        print('Not found :  Notice Button.')
+        print('Not found :  Add another entry Button.')
+        driver.close()
         gui.alert("Terminated!")
 
 

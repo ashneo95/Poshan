@@ -45,6 +45,7 @@ homevisit.click()
 xhomevisits = "/html/body/div/div[2]/div/div/mat-option[5]/span"
 time.sleep(1)
 homevisits = driver.find_element_by_xpath(xhomevisits)
+time.sleep(0.5)
 homevisits.click()
 time.sleep(1)
 xblock = "/html/body/app-dashboard/div/main/div/app-hierarchy/div[1]/div/div/form/div/div[1]/div/div/div[1]/div[2]/div/div[1]/mat-form-field/div/div[1]/div"
@@ -110,20 +111,21 @@ for i in range(1000):
     femalec.send_keys(str(female_c))
 
     descfield = driver.find_element_by_id("mat-input-5")
-    descfield.send_keys("Dhodambe")
+    descfield.send_keys("D-Yewalewad")
     time.sleep(0.25)
 
     xsubmitbutton = "/html/body/app-dashboard/div/main/div/app-hierarchy/div[1]/div/div/form/div/div[2]/div/div[3]/div/div/button"
-    submitbutton = driver.find_element_by_xpath(xsubmitbutton)
-    submitbutton.click()
+    time.sleep(1)
+    submitbutton = driver.find_element_by_xpath(xsubmitbutton).click()
 
     xsuccess = "/html/body/app-dashboard/div/main/div/app-hierarchy/p-dialog[1]/div/div[2]/div[1]/div[1]/button/span"
     try:
-        element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, xsuccess))).click()
+        element = WebDriverWait(driver, 60).until(EC.presence_of_element_located((By.XPATH, xsuccess))).click()
         #print('Element found successfully:  Success Button.')
     except:
         print('Not found :  Notice Button.')
-        gui.alert("Terminated!")
+        driver.close()
+        gui.alert("No response from server!")
 
 
 
